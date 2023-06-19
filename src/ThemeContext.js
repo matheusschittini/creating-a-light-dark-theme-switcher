@@ -14,4 +14,4 @@ export const ThemeProvider = ({ children }) => {
     )
 }
 
-export const useTheme = () => ({ theme: "light" });
+export const useTheme = () => useContext(ThemeContext);
