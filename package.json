@@ -2,7 +2,6 @@
   "name": "creating-a-light-dark-theme-switcher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://matheusschittini.github.io/creating-a-light-dark-theme-switcher/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
